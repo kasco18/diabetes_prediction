@@ -1,0 +1,6 @@
+#.streamlit/config.toml
+[client]
+showErrorDetails = false
+st.set_option('deprecation.showPyplotGlobalUse', False)
+[deprecation]
+showPyplotGlobalUse = false
